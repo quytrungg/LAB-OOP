@@ -1,0 +1,6 @@
+Rectangle: Width=10, Height=2 => Area=20, Perimeter=24
+Circle: Radius=10 => Area=314, Perimeter=62.8
+Triangle: A=4, B=2, C=3 => Area=2.90474, Perimeter=9
+Triangle: A=10, B=6, C=9 => Area=26.6634, Perimeter=25
+Rectangle: Width=8, Height=3 => Area=24, Perimeter=22
+Circle: Radius=6 => Area=113.04, Perimeter=37.68

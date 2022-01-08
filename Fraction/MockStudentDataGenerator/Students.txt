@@ -1,0 +1,160 @@
+Student: 2127831 - Tran Huu Minh
+	GPA=7.3, Telephone=0909-888-773
+	Email=thminh@student.hcmus.edu.vn
+	DOB=17/12/2003
+	Address=8 Nguyen Dinh Chieu, Ward 5, District 3, Ho Chi Minh city
+Student: 2127832 - Nguyen Dieu Linh
+	GPA=9.22, Telephone=0912-351-718
+	Email=thminh@student.hcmus.edu.vn
+	DOB=23/09/2003
+	Address=22 Ngo Thoi Nhiem, Ward 2, District 1, Ho Chi Minh city 
+Student: 2127833 - Ngo Thoi Chanh
+	GPA=8.12, Telephone=0977-161-237
+	Email=ntchanh@student.hcmus.edu.vn
+	DOB=12/06/2003
+	Address=8 Binh Long, Binh Hung Hoa Ward, Bin Tan District, Ho Chi Minh city
+Student: 2127384 - Vo Ha Truc
+	GPA=8.4, Telephone=0954-851-114
+	Email=vhtruc@student.hcmus.edu.vn
+	DOB=29/11/2002
+	Address=550 Bach Dang Ward 1 Binh Thanh District
+Student: 2127578 - Huynh Dang Anh Thao
+	GPA=5.5, Telephone=0926-461-263
+	Email=hdathao@student.hcmus.edu.vn
+	DOB=17/2/2002
+	Address=382 Nguyen Thi Minh Khai Ward 8 District 8
+Student: 2127281 - Pham Vo Nhat Phuc
+	GPA=2.6, Telephone=0978-140-256
+	Email=pvnphuc@student.hcmus.edu.vn
+	DOB=26/3/2001
+	Address=421 Bach Dang Ward 8 District 2
+Student: 2127859 - Tran Nhat Tuan
+	GPA=1.3, Telephone=0926-404-293
+	Email=tntuan@student.hcmus.edu.vn
+	DOB=17/6/2002
+	Address=698 Nguyen Thi Minh Khai Ward 8 Go Vap District
+Student: 2127151 - Le Hoang Huy
+	GPA=3, Telephone=0969-809-276
+	Email=lhhuy@student.hcmus.edu.vn
+	DOB=17/1/2001
+	Address=720 Tran Hung Dao Ward 10 District 3
+Student: 2127272 - Cao Quy Ngan
+	GPA=3.9, Telephone=0990-943-311
+	Email=cqngan@student.hcmus.edu.vn
+	DOB=29/9/2001
+	Address=216 Nguyen Van Cu Ward 2 District 9
+Student: 2127732 - Nguyen Toan Tam
+	GPA=1.2, Telephone=0935-467-111
+	Email=nttam@student.hcmus.edu.vn
+	DOB=14/1/2001
+	Address=539 Nguyen Van Cu Ward 7 District 1
+Student: 2127399 - Huynh Ho Nam Nguyen
+	GPA=6.7, Telephone=0912-648-523
+	Email=hhnnguyen@student.hcmus.edu.vn
+	DOB=29/1/2002
+	Address=504 Nguyen Van Cu Ward 8 Binh Thanh District
+Student: 2127072 - Dinh Huynh Quy Thu
+	GPA=7.6, Telephone=0906-820-197
+	Email=dhqthu@student.hcmus.edu.vn
+	DOB=16/2/2002
+	Address=271 Co Giang Ward 9 District 7
+Student: 2127547 - Cao Dong My
+	GPA=3.8, Telephone=0994-586-189
+	Email=cdmy@student.hcmus.edu.vn
+	DOB=11/11/2001
+	Address=389 Bach Dang Ward 9 Tan Binh District
+Student: 2127067 - Ho Le Quy Nguyen
+	GPA=8.5, Telephone=0937-567-128
+	Email=hlqnguyen@student.hcmus.edu.vn
+	DOB=17/4/2002
+	Address=900 Nguyen Thai Hoc Ward 7 District 2
+Student: 2127188 - Le Quy Ba Thu
+	GPA=3.2, Telephone=0990-633-625
+	Email=lqbthu@student.hcmus.edu.vn
+	DOB=22/9/2002
+	Address=113 Bach Dang Ward 8 District 10
+Student: 2127123 - Mai Toan Bao My
+	GPA=5.2, Telephone=0928-998-125
+	Email=mtbmy@student.hcmus.edu.vn
+	DOB=12/2/2001
+	Address=52 Co Giang Ward 4 District 9
+Student: 2127442 - Tran Thanh Hong Truc
+	GPA=6.8, Telephone=0942-322-520
+	Email=tthtruc@student.hcmus.edu.vn
+	DOB=27/5/2001
+	Address=2 Co Giang Ward 1 District 3
+Student: 2127638 - Le Quoc Tu Anh
+	GPA=5.2, Telephone=0957-590-920
+	Email=lqtanh@student.hcmus.edu.vn
+	DOB=18/7/2001
+	Address=171 Co Bac Ward 1 Go Vap District
+Student: 2127228 - Huynh Quoc Phuc
+	GPA=8.3, Telephone=0945-830-480
+	Email=hqphuc@student.hcmus.edu.vn
+	DOB=14/7/2003
+	Address=428 Co Bac Ward 2 Tan Binh District
+Student: 2127469 - Nguyen Tran Anh Y
+	GPA=1.1, Telephone=0992-977-548
+	Email=ntay@student.hcmus.edu.vn
+	DOB=25/10/2001
+	Address=121 Bach Dang Ward 7 District 5
+Student: 2127387 - Vo Ho Nam Nguyen
+	GPA=7, Telephone=0995-593-320
+	Email=vhnnguyen@student.hcmus.edu.vn
+	DOB=15/5/2003
+	Address=24 Nam Ky Khoi Nghia Ward 4 Go Vap District
+Student: 2127731 - Dang Thanh Bao My
+	GPA=1.8, Telephone=0927-701-661
+	Email=dtbmy@student.hcmus.edu.vn
+	DOB=28/9/2003
+	Address=876 Tran Hung Dao Ward 8 District 8
+Student: 2127992 - Vo Nam Trung
+	GPA=8.8, Telephone=0975-982-634
+	Email=vntrung@student.hcmus.edu.vn
+	DOB=28/4/2003
+	Address=417 Bach Dang Ward 2 District 10
+Student: 2127616 - Le Ba Tu Truong
+	GPA=2.5, Telephone=0982-275-569
+	Email=lbttruong@student.hcmus.edu.vn
+	DOB=8/10/2002
+	Address=743 Bach Dang Ward 12 District 2
+Student: 2127273 - Ngo Ngo Dong Phuc
+	GPA=4.2, Telephone=0934-586-353
+	Email=nndphuc@student.hcmus.edu.vn
+	DOB=16/3/2002
+	Address=26 Nam Ky Khoi Nghia Ward 9 District 12
+Student: 2127653 - Tran Dong Nhan
+	GPA=5, Telephone=0903-489-347
+	Email=tdnhan@student.hcmus.edu.vn
+	DOB=29/10/2001
+	Address=250 Nam Ky Khoi Nghia Ward 9 District 10
+Student: 2127873 - Mai Le Hoang Phuc
+	GPA=9.3, Telephone=0915-465-302
+	Email=mlhphuc@student.hcmus.edu.vn
+	DOB=1/1/2003
+	Address=173 Co Giang Ward 2 District 12
+Student: 2127739 - Ngo Cao Quoc Thao
+	GPA=4.7, Telephone=0940-799-597
+	Email=ncqthao@student.hcmus.edu.vn
+	DOB=9/2/2002
+	Address=785 Nam Ky Khoi Nghia Ward 5 District 3
+Student: 2127578 - Dang Quy Nhat Phuc
+	GPA=1.2, Telephone=0959-852-586
+	Email=dqnphuc@student.hcmus.edu.vn
+	DOB=10/8/2001
+	Address=896 Co Bac Ward 3 District 1
+Student: 2127381 - Pham Ho Nhu Tuan
+	GPA=7, Telephone=0974-132-329
+	Email=phntuan@student.hcmus.edu.vn
+	DOB=11/5/2001
+	Address=218 Ben Van Don Ward 2 District 2
+Student: 2127607 - Huynh Nam Trung
+	GPA=5, Telephone=0975-764-826
+	Email=hntrung@student.hcmus.edu.vn
+	DOB=2/4/2001
+	Address=376 Nguyen Thi Minh Khai Ward 6 District 6
+Student: 2127638 - Nguyen Ho Anh Tam
+	GPA=2, Telephone=0987-754-317
+	Email=nhatam@student.hcmus.edu.vn
+	DOB=24/5/2002
+	Address=207 Nam Ky Khoi Nghia Ward 4 District 1
